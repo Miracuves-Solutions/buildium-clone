@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/buildium-clone → Demo 
 Most property-mgmt scripts stop at "list a unit." This platform ships with the features that actually run a property-mgmt *business*:
 
 - **Online Rent + Late Fees** — ACH/debit/credit, auto-late-fee, partial payments, ledgers — what replaces rent-collection chaos
-- **Maintenance Ticketing** — 
-- **Owner Statements** — photos + videos + vendor routing + status, with permission controls — what tenants actually value
-- **Multi-Property Accounting** — credit, background, eviction — same tools Buildium and AppFolio charge up to $50/screening for
-- **Tenant Screening** — trust accounting, owner ledgers, vendor invoices, 1099 — what scale-up needs
+- **Maintenance Ticketing** — photos + videos + vendor routing + status, with permission controls — what tenants actually value
+- **Owner Statements** — monthly owner statements with auto-reconciliation, expense categorization, tax-ready PDFs
+- **Multi-Property Accounting** — trust accounting, owner ledgers, vendor invoices, 1099 — what scale-up needs
+- **Tenant Screening** — credit, background, eviction — same tools Buildium and AppFolio charge up to $50/screening for
 
 ## 📦 Core Features
 
