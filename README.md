@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/buildium-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$12,999**, transparent on the [solution page](https://miracuves.com/buildium-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXBuildium
 {CATEGORY}        Property Management SaaS Platform
 {DEMO_WEB}        mxbuildium.mimeld.com
-{PRICE}           $6,699
+{PRICE}           $12,999
 {SLUG}            buildium-clone
 {SOLUTION_URL}    https://miracuves.com/buildium-clone/
 {VERTICAL}        property_mgmt
