@@ -2,10 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxbuildium.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/buildium-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/buildium-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/buildium-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/buildium-clone/#features)
 
-**MXBuildium** is a production-ready, white-label Buildium clone: a complete property-management SaaS with tenant, owner, and manager dashboards — delivered with **100% source code ownership** in **6 working days**.
+**mxbuildium** is a production-ready, white-label Buildium clone: a complete property-management SaaS with tenant, owner, and manager dashboards — delivered with **100% source code ownership** in **6 working days**.
 
 > 🏢 **See it running before you talk to anyone.** Live tenant app, landlord dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/buildium-clone#demo). No sales call required.
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$12,999**, transparent on the [solution page](https://miracuves.com/buildium-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$12,999**, transparent on the [solution page](https://miracuves.com/buildium-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom property-mgmt platforms run $80k–$300k and 4–9 months. A proven white
 ## 📚 Resources
 
 - 📖 [Buildium Clone — Full Solution Page](https://miracuves.com/buildium-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Property Management App Cost in 2026?](https://miracuves.com/buildium-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Buildium Clone Script in 2026](https://miracuves.com/buildium-clone/blog/) features, pricing & launch guide
-- 🧠 [Online Rent Collection: Statics & Trust Accounting](https://miracuves.com/buildium-clone/blog/) ACH, ledger, late fees
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/buildium-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Property Management App Cost in 2026?](https://miracuves.com/buildium-clone#features) pricing breakdown & what's included
+- 📝 [Best Buildium Clone Script in 2026](https://miracuves.com/buildium-clone#features) features, pricing & launch guide
+- 🧠 [Online Rent Collection: Statics & Trust Accounting](https://miracuves.com/buildium-clone#features) ACH, ledger, late fees
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/buildium-clone#faq) every claim we make, verified
+- 💻 [Buildium Clone — Technical Stack](https://miracuves.com/buildium-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Buildium Clone — How It Works / User Flow](https://miracuves.com/buildium-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom property-mgmt platforms run $80k–$300k and 4–9 months. A proven white
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/buildium-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/buildium-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: buildium clone, buildium clone script, property management, rental property, white label Buildium, owner portal, tenant app, Flutter property, Node.js SaaS*
 
@@ -106,7 +108,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Buildium Clone
-{MX_NAME}         MXBuildium
+{MX_NAME}         mxbuildium
 {CATEGORY}        Property Management SaaS Platform
 {DEMO_WEB}        mxbuildium.mimeld.com
 {PRICE}           $12,999
